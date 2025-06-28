@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "190270300076",
+    "project_id": "langsonshipper",
+    "storage_bucket": "langsonshipper.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190270300076:android:7c96649a66abc42a30a409",
+        "android_client_info": {
+          "package_name": "com.hoaiphan.langsonshipper.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190270300076-krku931p7j5tt8snjt9s3njilu0f36v5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8zhOHGdXyXYO7UpvNTGdh9VhQSlZOaog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190270300076-krku931p7j5tt8snjt9s3njilu0f36v5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190270300076-830og82u2kek07v71uhe9t0raf7frius.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hoaiphan.langsonshipper"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

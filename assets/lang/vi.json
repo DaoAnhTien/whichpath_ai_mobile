@@ -1,0 +1,21 @@
+{
+  "hello": "Xin chào",
+  "welcome": "Chào mừng bạn đến với ứng dụng",
+  "login": "Đăng nhập",
+  "logout": "Đăng xuất",
+  "settings": "Cài đặt",
+  "language": "Ngôn ngữ",
+  "dark_mode": "Chế độ tối",
+  "light_mode": "Chế độ sáng",
+  "profile": "Hồ sơ cá nhân",
+  "change_language": "Thay đổi ngôn ngữ",
+  "login_title": "Đăng nhập",
+  "sign_title": "Đăng kí",
+  "title1": "Nắm bắt tin tức bất động sản mới nhất",
+  "title2": "Liên hệ và đặt cọc trực tiếp trong app",
+  "title3": "Xem pháp lý rõ ràng, an tâm đầu tư",
+  "content1": "Cập nhật liên tục thông tin nóng hổi về thị trường nhà đất, giá cả, xu hướng và cơ hội đầu tư để đưa ra quyết định chính xác và kịp thời.",
+  "content2": "Tiết kiệm thời gian với tính năng liên hệ và đặt cọc ngay trên ứng dụng. Đảm bảo an toàn, tiện lợi, và minh bạch cho mọi giao dịch.",
+  "content3": "Tra cứu pháp lý dự án, sổ đỏ, quy hoạch… ngay trên ứng dụng. Giúp bạn an tâm khi lựa chọn căn nhà mơ ước.",
+  "login_desc": "Với một tài khoản duy nhất, sử dụng linh hoạt trên mọi ứng dụng của Tongkhobatdongsan.vn"
+}

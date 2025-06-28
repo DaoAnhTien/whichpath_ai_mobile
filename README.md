@@ -1,1 +1,3 @@
-# whichpath_ai_mobile
+# wichpath_ai
+
+A new Flutter project.

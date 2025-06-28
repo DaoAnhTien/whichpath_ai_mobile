@@ -1,0 +1,12 @@
+{
+  "hello": "Hello",
+  "welcome": "Welcome to the app",
+  "login": "Login",
+  "logout": "Logout",
+  "settings": "Settings",
+  "language": "Language",
+  "dark_mode": "Dark Mode",
+  "light_mode": "Light Mode",
+  "profile": "Profile",
+  "change_language": "Change Language"
+}
